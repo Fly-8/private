@@ -1,0 +1,8 @@
+{"name": "自用图标库",
+ "description": "收集互联网公开图标文件，版权属于原作者和商标持有人。", 
+ "icons": [
+ {"name": "番茄小说",
+  "url": "https://raw.githubusercontent.com/chrm1023/icon/icon/fanqie.png"},
+ {"name": "烟花2",
+  "url": "https://raw.githubusercontent.com/chxm1023/Script_X/main/icon/yanhua.png"}
+]}
